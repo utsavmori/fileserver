@@ -1,0 +1,14 @@
+{
+  "name": "directory-listing",
+  "version": "1.0.0",
+  "description": "it serves the file to clients that are in public dirc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "utsavmori",
+  "license": "ISC",
+  "dependencies": {
+    "express": ">=3.10.10"}
+}
